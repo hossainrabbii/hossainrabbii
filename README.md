@@ -37,7 +37,7 @@ Since **2017**, I’ve been helping clients worldwide bring their visions to lif
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
   <img src="https://img.jsdelivr.com/github.com/expressjs.png" width="40" height="40" alt="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="40" height="40" alt="Mongoose" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zod/zod-original.svg" width="40" height="40" alt="Zod" />
+  <img src="https://zod.dev/_next/image?url=%2Flogo%2Flogo.png&w=48&q=100" width="40" height="40" alt="Zod" />
 </p>
 
 #### 🗄️ Databases
