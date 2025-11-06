@@ -17,6 +17,13 @@ Since **2017**, I’ve been helping clients worldwide bring their visions to lif
 💡 I value **clarity**, **quality**, and **commitment to deadlines** above all.
 
 ---
+<p align="center">
+  <a href="https://fiverr.com/iibbar" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
+  <a href="https://upwork.com/freelancers/hossainrabbi" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+  <a href="mailto:mdhosen21018@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hossainrabbii/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+---
 
 ### 🛠️ Core Skills & Technologies
 
@@ -82,7 +89,7 @@ Since **2017**, I’ve been helping clients worldwide bring their visions to lif
   <a href="https://fiverr.com/iibbar" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
   <a href="https://upwork.com/freelancers/hossainrabbi" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
   <a href="mailto:mdhosen21018@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hossainrabbi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hossainrabbii/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
